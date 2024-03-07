@@ -1,46 +1,50 @@
 # ShoppingCart
 
-This project is a simple shopping cart implemented using PHP.
+## Overview
+
+This project entails a straightforward implementation of a shopping cart using PHP.
 
 ## Description
 
-This shopping cart allows users to add items, view them, and update quantities. It's a basic implementation but can be extended with additional features like user authentication, checkout process, etc.
+The shopping cart facilitates users in adding, viewing, and updating items. While its current state is basic, it provides a foundation for potential expansions such as user authentication and a checkout process.
 
+## Key Features
 
-## Features
-* Add items to the shopping cart.
-* View items in the shopping cart.
-* Update quantities of items in the shopping cart.
-* Select products for purchase.
+- Addition of items to the shopping cart.
+- Viewing items within the shopping cart.
+- Modification of item quantities in the cart.
+- Selection of products for purchase.
 
+## Database Setup
 
-## Database Setup:
-
-* Create a MySQL database.
-* import the SQL file provided in the repository (database.sql) to set up the necessary tables and sample data.
-* Update Database Connection Details:
-* Open the connect.php file.
-* Update the database hostname, username, password, and database name according to your MySQL configuration.
+1. Create a MySQL database.
+2. Import the provided SQL file (database.sql) to establish essential tables and sample data.
+3. Update Database Connection Details:
+   - Navigate to the connect.php file.
+   - Modify the database hostname, username, password, and database name to align with your MySQL configuration.
 
 ## Usage
-### Add Items:
 
-*Click on the "Add Item" button to add items to the shopping cart.
-#### View Items:
-* Click on the "View Cart" button to view items in the shopping cart.
-* You can update quantities of items if needed.
+### Adding Items:
 
+- Utilize the "Add Item" button to include items in the shopping cart.
 
-### Select Products:
-* Select the products you want to purchase by adjusting the quantities.
-* Click on the "Add to Cart" button to proceed to checkout.
+### Viewing Items:
+
+- Access the "View Cart" button to inspect items currently present in the shopping cart.
+- Modify item quantities as necessary.
+
+### Selecting Products:
+
+- Adjust quantities to select desired products for purchase.
+- Proceed to checkout by clicking on the "Add to Cart" button.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-## Fork the repository.
+Contributions to this project are encouraged! If you wish to contribute, please adhere to the following steps:
+
 1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
+2. Create a new feature branch: git checkout -b feature-name.
+3. Commit your changes: git commit -am 'Add some feature'.
+4. Push your changes to the branch: git push origin feature-name.
 5. Submit a pull request.
