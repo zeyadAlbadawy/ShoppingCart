@@ -44,7 +44,7 @@ The shopping cart facilitates users in adding, viewing, and updating items. Whil
 Contributions to this project are encouraged! If you wish to contribute, please adhere to the following steps:
 
 1. Fork the repository.
-2. Create a new feature branch: git checkout -b feature-name.
+2. Create a new feature branch: 'git checkout -b feature-name'.
 3. Commit your changes: git commit -am 'Add some feature'.
 4. Push your changes to the branch: git push origin feature-name.
 5. Submit a pull request.
