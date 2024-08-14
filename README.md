@@ -38,15 +38,21 @@ The shopping cart facilitates users in adding, viewing, and updating items. Whil
 
 - Adjust quantities to select desired products for purchase.
 - Proceed to checkout by clicking on the "Add to Cart" button.
+
+  
 - ![image](https://github.com/user-attachments/assets/6884db84-0a60-4e84-b676-42704c9fdbcb)
 
 
 ## Shop
 - You Can Modify Or Delete The Selected Product
+
+  
 ![image](https://github.com/user-attachments/assets/fc1dd45a-7efe-4837-938c-f23a880c34ce)
 
 ## Cart
 - Allow You To Modify Quantities, Check The Total Price, Delete Specific item or even delete all of them
+
+  
   ![image](https://github.com/user-attachments/assets/b5621e33-52d6-4205-9728-c6b5ee14991a)
 
 
